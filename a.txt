@@ -1,1 +1,3 @@
 Enviando a funciopnalidade z
+
+Funcionalidade B está pronta.
