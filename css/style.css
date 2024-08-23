@@ -2,3 +2,9 @@ h1 {
   background-color: black;
   color: blueviolet;
 }
+
+p {
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+}
